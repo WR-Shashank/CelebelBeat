@@ -6,6 +6,7 @@ A modern, responsive web application built with **React**, **TypeScript**, **Vit
 ---
 
 ##  Project Structure
+```
 project/
 ├── public/              # Static assets
 ├── src/                 # Application source code
@@ -19,6 +20,7 @@ project/
 ├── tsconfig.json        # TypeScript base config
 ├── package.json         # Project metadata and scripts
 └── .gitignore
+ ```
 ---
 
 ##  Getting Started
