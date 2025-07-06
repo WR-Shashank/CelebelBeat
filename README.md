@@ -10,7 +10,7 @@ A modern, responsive web application built with **React**, **TypeScript**, **Vit
 project/
 ├── public/              
 ├── src/                 
-│   ├── App.tsx / App.jsx
+│   ├── App.tsx 
 │   ├── main.tsx
 │   └── index.css              
 ├── index.html           
