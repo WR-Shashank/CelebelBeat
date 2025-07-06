@@ -12,8 +12,7 @@ project/
 ├── src/                 
 │   ├── App.tsx / App.jsx
 │   ├── main.tsx
-│   └── index.css
-├── .bolt/               
+│   └── index.css              
 ├── index.html           
 ├── tailwind.config.js   
 ├── vite.config.ts      
