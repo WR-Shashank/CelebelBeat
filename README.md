@@ -8,17 +8,17 @@ A modern, responsive web application built with **React**, **TypeScript**, **Vit
 ##  Project Structure
 ```
 project/
-├── public/              # Static assets
-├── src/                 # Application source code
+├── public/              
+├── src/                 
 │   ├── App.tsx / App.jsx
 │   ├── main.tsx
 │   └── index.css
-├── .bolt/               # Bolt-specific config
-├── index.html           # Main HTML template
-├── tailwind.config.js   # Tailwind configuration
-├── vite.config.ts       # Vite config
-├── tsconfig.json        # TypeScript base config
-├── package.json         # Project metadata and scripts
+├── .bolt/               
+├── index.html           
+├── tailwind.config.js   
+├── vite.config.ts      
+├── tsconfig.json        
+├── package.json         
 └── .gitignore
  ```
 ---
